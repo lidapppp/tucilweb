@@ -22,26 +22,32 @@ class Pages extends BaseController
     public function home()
     {
         $data = [
-            'title' => 'Home | M.Fadhil Azhari'
+            'title' => 'Index | M.Fadhil Azhari'
         ];
 
-        return view('pages/home', $data);
+        return view('pages/index', $data);
     }
-    public function register()
+
+    public function produk()
     {
         $data = [
-            'title' => 'Register'
+            'title' => 'Product '
         ];
 
-        return view('pages/register', $data);
+        return view('pages/produk', $data);
     }
-    public function contact()
+    public function admin()
     {
         $data = [
-            'title' => 'Contact'
+            'title' => 'Admin ',
+            'content' => 'admin/v_dashboard'
         ];
-        return view('pages/contact', $data);
+
+        echo view('layout/v_wrapper', $data);
     }
+
+
+
 
 
 

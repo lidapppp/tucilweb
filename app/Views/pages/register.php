@@ -38,7 +38,7 @@
                             <div>
                                 <h5 class="text-center">OR</h5>
                             </div>
-                            <a href="home" class="text-center">Home</a>
+                            <a href="pages/home" class="text-center">Home</a>
                         </form>
                     </div>
                 </div>

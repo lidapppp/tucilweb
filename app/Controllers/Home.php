@@ -6,11 +6,11 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('pages/login');
-	}
-	public function about()
-	{
-		return view('pages/about');
+		$data = [
+			'title' => 'Index | M.Fadhil Azhari'
+		];
+
+		return view('pages/index', $data);
 	}
 
 	//--------------------------------------------------------------------

@@ -32,7 +32,7 @@
                             <div>
                                 <h5 class="text-center">OR</h5>
                             </div>
-                            <a href="pages/register" class="text-center">Register A New Account</a>
+                            <a href="Pages2" class="text-center">Register A New Account</a>
                         </form>
                     </div>
                 </div>

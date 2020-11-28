@@ -5,7 +5,11 @@
     <div class="row">
         <div class="col">
             <h1>About Me</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quia vitae repellendus deleniti voluptates nihil eum delectus magnam vero quasi, facilis at atque porro id fugiat unde suscipit? Harum, molestiae!</p>
+            <p> Nama : M.Fadhil Azhari <br>
+                NPM : 1817051062<br>
+                Kelas : A<br>
+                Alamat : Kotabumi<br>
+            </p>
         </div>
     </div>
 </div>

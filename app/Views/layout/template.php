@@ -21,8 +21,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href="/Pages/home">Home</a>
+                    <a class="nav-item nav-link active" href="/Home/index">Index</a>
                     <a class="nav-item nav-link" href="/pages/about">About</a>
+                    <a class="nav-item nav-link" href="/pages/admin">Admin</a>
                     <a class="nav-item nav-link" href="/pages/produk">Product</a>
                 </div>
             </div>
